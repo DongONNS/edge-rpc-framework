@@ -19,6 +19,9 @@ public class RpcServiceProperties {
      */
     private String group;
 
+    /**
+     * 接口名
+     */
     private String serviceName;
 
     private String toRpcServiceName(){
