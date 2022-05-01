@@ -6,7 +6,6 @@
 
     <groupId>com.edge</groupId>
     <artifactId>edge-rpc-framework</artifactId>
-    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <kryo.version>4.0.2</kryo.version>
